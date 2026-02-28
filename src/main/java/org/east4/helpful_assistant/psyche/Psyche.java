@@ -12,5 +12,5 @@ public interface Psyche {
 	Brain getLocalSubBrain();
 	List<Psyche> getSubidentitiesForAvatar(SoftwareCreatureAvatar avatar);
 	List<SoftwareCreatureAvatar> getAvatars();
-	Psyche getSuperidentity();
+	List<Psyche> getSuperidentitiesForAvatar(SoftwareCreatureAvatar avatar);
 }
