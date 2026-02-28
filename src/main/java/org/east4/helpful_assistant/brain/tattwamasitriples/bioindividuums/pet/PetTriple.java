@@ -1,0 +1,9 @@
+package org.east4.helpful_assistant.brain.tattwamasitriples.bioindividuums.pet;
+
+import org.east4.helpful_assistant.brain.perception.ModelAndRealObjectPercepionAndTheirInterconnectionPerceptionTriple;
+import org.east4.helpful_assistant.brain.tattwamasitriples.SubjectAndRealityPerceptionAndTheirInterconnectionPerceptionTriple;
+
+public interface PetTriple extends ModelAndRealObjectPercepionAndTheirInterconnectionPerceptionTriple, 
+	SubjectAndRealityPerceptionAndTheirInterconnectionPerceptionTriple {
+
+}

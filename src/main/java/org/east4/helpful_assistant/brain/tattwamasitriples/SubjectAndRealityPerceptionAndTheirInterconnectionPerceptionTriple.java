@@ -1,0 +1,8 @@
+package org.east4.helpful_assistant.brain.tattwamasitriples;
+
+import org.east4.helpful_assistant.brain.perception.ModelAndRealObjectPercepionAndTheirInterconnectionPerceptionTriple;
+
+public interface SubjectAndRealityPerceptionAndTheirInterconnectionPerceptionTriple
+		extends ModelAndRealObjectPercepionAndTheirInterconnectionPerceptionTriple {
+
+}
