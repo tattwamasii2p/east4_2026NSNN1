@@ -1,4 +1,4 @@
-# east4_2026NSNN1
+# project.east4
 A verifiable AI kernel. Verifiable AI with evidence checking and proving adequate validity of communication.
 
 ## Project Status
